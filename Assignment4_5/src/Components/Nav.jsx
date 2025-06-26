@@ -7,6 +7,7 @@ export default function Nav() {
       <Link to = "/" className="p-4 border m-3 bg-sky-300">Home</Link>
       <Link to = "/Subjects" className="p-4 border m-3 bg-sky-300">Subjects</Link>
       <Link to = "/Settings" className="p-4 border m-3 bg-sky-300">Setting</Link>
+      <Link to= "/Login" className="p-4 border m-3 bg-sky-300">Login</Link>
     </div>
   )
 }
